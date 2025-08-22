@@ -55,4 +55,6 @@ streamlit run app.py
 ## Notes
 - Sample recipes are seeded on first run.
 - The AI features require an active internet connection and a valid `OPENAI_API_KEY`.
-![image alt]([image_url](https://github.com/iabdul-rafay/Smart-HomeChef/blob/main/Screenshot%202025-08-21%20221328.png?raw=true))
+  
+![image alt](https://github.com/iabdul-rafay/Smart-HomeChef/blob/main/Screenshot%202025-08-21%20221328.png?raw=true)
+![image alt](https://github.com/iabdul-rafay/Smart-HomeChef/blob/main/Screenshot%202025-08-21%20221344.png?raw=true)
